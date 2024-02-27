@@ -1,9 +1,9 @@
-@base <http://purl.org/demonto/food/> .
+@base <http://purl.org/demonto/food#> .
 
 @prefix dcmit:   <http://purl.org/dc/dcmitype/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix dctypes: <http://purl.org/dc/dcmitype/> .
-@prefix fo:      <http://purl.org/demonto/food/> .
+@prefix fo:      <http://purl.org/demonto/food#> .
 @prefix foaf:    <http://xmlns.com/foaf/0.1/> .
 @prefix owl:     <http://www.w3.org/2002/07/owl#> .
 @prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
