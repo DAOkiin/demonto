@@ -13,7 +13,6 @@
     <rdfs:domain rdf:resource="http://purl.org/demonto/foodMenu"/>
     <rdfs:isDefinedBy rdf:resource="http://purl.org/demonto/food"/>
   </rdf:Description>
-
   <rdf:Description rdf:about="http://purl.org/demonto/foodserve_as">
     <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
     <rdfs:label xml:lang="en-gb">serve as</rdfs:label>
